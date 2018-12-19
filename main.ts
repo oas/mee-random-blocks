@@ -1,5 +1,5 @@
 //% block="Random Blocks"
-//% icon="\f1b2"
+//% icon="\uf1b2"
 //% color="#7abb55"
 namespace randomBlocks {
 	//% block="get random wool block"
